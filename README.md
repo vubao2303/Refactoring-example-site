@@ -5,7 +5,7 @@
 Restructure the source code of a tasked application and improve operation; making sure all the links work properly, all the img tags have alt attributes, and structuring the code in semantic HTML elements. 
 
 =================
-![Image](/Users/bvu/Desktop/class-content/course-content/01-html-git-css/homework/01-html-css-git-homework-demo.png)
+![Horiseon](/Users/bvu/Desktop/01-html-css-git-homework-demo.png)
 
 
 ## Technologies Used
