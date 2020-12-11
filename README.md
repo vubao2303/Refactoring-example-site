@@ -1,17 +1,27 @@
 # Refectoring Horiseon Example 
 
-Restructure the source code of a tasked application or piece of software so as to improve operation without altering functionality.
+## Summary 
 
-## Getting Started
+Restructure the source code of a tasked application and improve operation; making sure all the links work properly, all the img tags have alt attributes, and structuring the code in semantic HTML elements. 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+=================
+![Image](01-html-css-git-homework-demo.png)
 
-add igm here 
+# Lists
+### Unordered Lists
+- Add nav tag to follow the semantic structure
+- Add id tag to link to make sure the link works properly 
+- Add header and footer to the code to follow semantic structure
+- Eleminate some div tags and create section tags to follow semantic structure 
+- Add alt attributes to img tags 
+- Orgnize CSS file by consolidate selectors with the same properties 
 
-## Built With
+## Technologies Used
+- HTML - used to create elements on the DOM
+- CSS - styles html elements on page
+- Git - version control system to track changes to source code
+- GitHub - hosts repository that can be deployed to GitHub Pages
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Deployed Link
 
